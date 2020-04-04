@@ -1,4 +1,2 @@
-# Olá, mundo!
- Primeiro repositório.
-
- Criado em 03/04/2020
+# Hello_World
+ Primeiro repositório
